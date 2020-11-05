@@ -25,7 +25,7 @@ Vue & CSS & Node & JavaScript
 
 Wechat: Vir-Kano
 
-Blog: #
+Blog: [Virkano](http://virkano.com)
 
 ![virkano's github stats](https://github-readme-stats.vercel.app/api?username=Virkano&show_icons=true&theme=gruvbox)
 
