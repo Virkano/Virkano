@@ -30,4 +30,4 @@ Blog: [Virkano](http://virkano.com)
 ![virkano's github stats](https://github-readme-stats.vercel.app/api?username=Virkano&show_icons=true&theme=gruvbox)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Virkano&repo=web-bookmarks&theme=shades-of-purple)](https://github.com/Virkano/web-bookmarks)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Virkano&repo=vue3-jest-ts-blog&theme=tokyonight)]
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Virkano&repo=vue3-jest-ts-blog&theme=tokyonight)](https://github.com/Virkano/vue3-jest-ts-blog)
