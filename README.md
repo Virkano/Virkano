@@ -23,7 +23,7 @@ Development & Security
 
 Vue & CSS & Node & JavaScript
 
-Wechat: Vir-Kano
+Wechat: Vir_Kano
 
 Blog: [Virkano](http://virkano.com)
 
