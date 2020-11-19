@@ -26,6 +26,7 @@ Vue & CSS & Node & JavaScript
 Wechat: Vir_Kano
 
 Blog: [Virkano](http://virkano.com)
+
 Music(PC): [nicemusic （登录你的网易云手机号密码即可）](https://www.virkano.com/nicemusic/)
 
 ![virkano's github stats](https://github-readme-stats.vercel.app/api?username=Virkano&show_icons=true&theme=onedark)
