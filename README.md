@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Development & Security
 
-Vue & CSS & Node & JavaScript
+Vue & CSS & Node & JavaScript (一个啥也不会的前端混子)。。。
 
 Wechat: Vir_Kano
 
