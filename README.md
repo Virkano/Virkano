@@ -1,12 +1,3 @@
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/JerryC8080/JerryC8080/master/header.svg" width="800" height="400">
-	<br>
-	<br>
-	
-</div>
-
-
 ### `Hi there 👋`
 
 Welcome to my Github page, I am <b style="color: #0ed2f7">**zzckano**</b>,
@@ -25,6 +16,10 @@ Blog: [Virkano](http://virkano.com)
 ![virkano's github stats](https://github-readme-stats.vercel.app/api?username=Virkano&show_icons=true&theme=onedark)
 
 
-
-
-
+<div align="center">
+	<br>
+	<img src="https://raw.githubusercontent.com/JerryC8080/JerryC8080/master/header.svg" width="800" height="400">
+	<br>
+	<br>
+	
+</div>
