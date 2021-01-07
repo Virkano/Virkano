@@ -3,9 +3,8 @@
 Welcome to my Github page, I am <b style="color: #0ed2f7">**zzckano**</b>,
 
 
-:construction_worker:  Front End Engineer
+:construction_worker:  Development & Security
 
-Development & Security
 
 **Languages and Tools:**  
 
