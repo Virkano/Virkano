@@ -2,7 +2,7 @@
 
 <!-- <img align="right" src="https://readme-card-beta.vercel.app/api?username=leon-fong"  /> -->
 
-### 👋 Hi there, I'm Leon
+### 👋 Hi there, I'm Kano
 A passionate Web developer who's currently learning something I have never known before
 
 If you want to know more about me, please visit my [website](https://docs.virkano.com)
